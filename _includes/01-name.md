@@ -1,1 +1,1 @@
-Anand Madhu #A Tech Entrerpeneur from Bangalore
+# Anand Madhu - A Tech Entrerpeneur from Bangalore
